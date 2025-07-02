@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load data
-df = pd.read_csv('AI_Tools_Adoption_SMBs_India.csv')
+df = pd.read_csv('AI_Tools_Adoption_SMBs_India_Updated(1).csv')
 
 st.title('📊 AI Tools Adoption in Indian SMBs - Dashboard')
 
