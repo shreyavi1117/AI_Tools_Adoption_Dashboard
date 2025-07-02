@@ -1,0 +1,101 @@
+Company_Name,Sector,Employees,AI_Tools_Used,Usage_Frequency,Purpose,ROI_Percentage,Adoption_Level,Challenges
+FinWorks,Logistics,246,"Google Duet, GitHub Copilot",Monthly,Data Analysis,39,Medium,Data Privacy
+CloudLabs,Finance,21,Google Duet,Monthly,Data Analysis,58,Low,Data Privacy
+EduAnalytics,Manufacturing,405,"Notion AI, Google Duet",Weekly,Automation,25,High,Integration Issues
+DataSoft,Healthcare,20,Notion AI,Daily,Coding Help,112,Low,Integration Issues
+MediWorks,Healthcare,71,"Google Duet, Notion AI",Weekly,Coding Help,23,Medium,Lack of Training
+FinPvt Ltd,Travel,54,"GitHub Copilot, Bard, Google Duet",Monthly,Coding Help,9,High,None
+CloudPvt Ltd,Manufacturing,488,"GitHub Copilot, Google Duet, Notion AI",Daily,Data Analysis,15,Medium,None
+DataTech,Retail,123,ChatGPT,Monthly,Automation,77,Low,Lack of Training
+FinSolutions,Manufacturing,361,"Notion AI, Google Duet, ChatGPT",Daily,Automation,96,High,None
+AutoSoft,Travel,227,"GitHub Copilot, ChatGPT, Google Duet",Daily,Automation,97,Low,Integration Issues
+AutoAnalytics,Retail,332,"Notion AI, GitHub Copilot",Monthly,Customer Support,5,Medium,Data Privacy
+CloudAnalytics,Logistics,57,"ChatGPT, Google Duet, Bard",Daily,Customer Support,101,Low,Data Privacy
+CloudSoft,Manufacturing,374,Bard,Weekly,Customer Support,28,Medium,Cost
+TechAnalytics,Manufacturing,68,"GitHub Copilot, Notion AI",Weekly,Data Analysis,77,Medium,Cost
+SmartLabs,Finance,485,"ChatGPT, Google Duet",Daily,Data Analysis,44,High,Lack of Training
+CloudSolutions,Manufacturing,307,"Google Duet, GitHub Copilot",Daily,Automation,46,Low,Integration Issues
+MediWorks,Healthcare,344,"Bard, ChatGPT",Weekly,Automation,22,Low,Cost
+FinTech,Healthcare,370,"Bard, Google Duet",Monthly,Content Creation,99,High,Cost
+MediSolutions,Healthcare,440,"ChatGPT, GitHub Copilot",Daily,Coding Help,48,High,Integration Issues
+FinSoft,Travel,110,"Bard, GitHub Copilot, Notion AI",Weekly,Data Analysis,16,Low,Data Privacy
+CloudWorks,Retail,444,Notion AI,Monthly,Coding Help,48,High,None
+MediLabs,Finance,15,"Notion AI, Google Duet, ChatGPT",Weekly,Coding Help,15,High,Lack of Training
+EcoPvt Ltd,Retail,286,"ChatGPT, Notion AI, Bard",Monthly,Coding Help,80,Medium,None
+DataCorp,Retail,432,"Google Duet, GitHub Copilot, ChatGPT",Monthly,Automation,70,Medium,Data Privacy
+EcoAnalytics,Finance,197,Google Duet,Weekly,Content Creation,89,Medium,Data Privacy
+SmartTech,EdTech,370,"Bard, Google Duet",Daily,Automation,92,Low,None
+InfoEnterprises,Manufacturing,480,"Notion AI, Bard",Daily,Coding Help,62,Medium,Integration Issues
+TechSolutions,Healthcare,131,ChatGPT,Monthly,Customer Support,83,Low,Integration Issues
+FinLabs,EdTech,426,"ChatGPT, Notion AI, GitHub Copilot",Weekly,Coding Help,80,Low,None
+SmartTech,Logistics,86,Notion AI,Weekly,Customer Support,111,Low,Data Privacy
+DataCorp,Finance,154,"Google Duet, Notion AI",Monthly,Data Analysis,91,High,None
+AutoEnterprises,EdTech,500,GitHub Copilot,Weekly,Customer Support,34,Low,Lack of Training
+EduEnterprises,Manufacturing,395,"GitHub Copilot, ChatGPT",Weekly,Customer Support,22,High,Cost
+AutoCorp,Travel,489,"Google Duet, Bard, GitHub Copilot",Daily,Customer Support,118,High,None
+EduEnterprises,Travel,121,"ChatGPT, Bard",Daily,Data Analysis,58,Medium,Cost
+AutoSoft,Finance,342,"Google Duet, Notion AI, Bard",Monthly,Content Creation,71,Low,None
+InfoSoft,Finance,78,"GitHub Copilot, ChatGPT",Monthly,Data Analysis,-4,Low,Integration Issues
+DataSystems,EdTech,30,"Bard, Notion AI",Monthly,Coding Help,82,Low,None
+AutoWorks,Travel,476,"Google Duet, Bard",Daily,Data Analysis,73,Medium,Lack of Training
+TechLabs,Travel,92,"GitHub Copilot, Google Duet",Monthly,Coding Help,58,High,Data Privacy
+InfoSystems,EdTech,182,Bard,Daily,Customer Support,70,High,Cost
+EcoAnalytics,Healthcare,463,"ChatGPT, Notion AI, GitHub Copilot",Weekly,Automation,35,High,Lack of Training
+MediSoft,Manufacturing,392,GitHub Copilot,Weekly,Automation,76,High,Integration Issues
+CloudSystems,Travel,455,"ChatGPT, Notion AI, Bard",Weekly,Content Creation,-1,Low,Data Privacy
+MediLabs,Manufacturing,404,GitHub Copilot,Weekly,Customer Support,2,High,Data Privacy
+TechPvt Ltd,Logistics,465,"GitHub Copilot, ChatGPT, Bard",Weekly,Content Creation,71,Medium,Data Privacy
+TechSolutions,Logistics,301,"Notion AI, Google Duet",Monthly,Automation,12,Medium,None
+TechPvt Ltd,Finance,56,"Google Duet, Notion AI, GitHub Copilot",Weekly,Customer Support,90,Medium,Integration Issues
+EduPvt Ltd,Manufacturing,334,"GitHub Copilot, Bard",Weekly,Coding Help,0,High,None
+DataLabs,Finance,131,ChatGPT,Weekly,Customer Support,59,Medium,Data Privacy
+EcoAnalytics,Finance,200,"GitHub Copilot, Bard, ChatGPT",Monthly,Automation,113,Medium,Integration Issues
+CloudCorp,Travel,359,"ChatGPT, GitHub Copilot",Daily,Automation,58,High,None
+TechTech,Finance,424,Notion AI,Monthly,Customer Support,67,Low,Cost
+CloudSolutions,Logistics,258,"Bard, ChatGPT",Monthly,Coding Help,-5,Low,Cost
+MediSolutions,EdTech,40,"Notion AI, Google Duet, Bard",Monthly,Coding Help,44,Low,Cost
+EduAnalytics,Manufacturing,326,GitHub Copilot,Monthly,Data Analysis,76,Low,Integration Issues
+TechLabs,EdTech,387,GitHub Copilot,Daily,Coding Help,15,High,Lack of Training
+DataPvt Ltd,Healthcare,455,Google Duet,Monthly,Data Analysis,71,Low,Cost
+EduLabs,Manufacturing,237,"ChatGPT, GitHub Copilot",Weekly,Automation,59,High,Integration Issues
+TechPvt Ltd,Finance,166,"GitHub Copilot, Bard, Google Duet",Daily,Automation,-8,High,Cost
+FinSolutions,Logistics,340,"Notion AI, GitHub Copilot",Monthly,Data Analysis,41,Medium,Cost
+AutoEnterprises,Healthcare,434,"Google Duet, GitHub Copilot",Weekly,Customer Support,48,Low,None
+CloudSystems,Travel,103,"Google Duet, Notion AI",Monthly,Customer Support,107,Medium,Data Privacy
+InfoAnalytics,Retail,349,Notion AI,Weekly,Coding Help,29,High,Data Privacy
+EcoSystems,Manufacturing,387,"Notion AI, ChatGPT, Bard",Monthly,Automation,-8,Medium,Lack of Training
+AutoWorks,Logistics,463,"GitHub Copilot, ChatGPT, Bard",Daily,Automation,32,Medium,Cost
+AutoTech,Travel,296,"Notion AI, Bard, Google Duet",Weekly,Automation,71,Medium,Lack of Training
+FinWorks,EdTech,147,"Bard, GitHub Copilot",Monthly,Content Creation,13,High,Data Privacy
+EduSystems,Travel,329,"GitHub Copilot, ChatGPT",Daily,Data Analysis,90,High,Integration Issues
+TechPvt Ltd,Retail,85,Bard,Daily,Coding Help,4,Medium,Cost
+AutoLabs,Finance,86,ChatGPT,Daily,Data Analysis,27,High,None
+EduSoft,Logistics,486,"Bard, Notion AI, GitHub Copilot",Monthly,Customer Support,10,Medium,Data Privacy
+EduSoft,Finance,30,"GitHub Copilot, Bard, Google Duet",Daily,Data Analysis,97,High,Integration Issues
+SmartEnterprises,Finance,313,ChatGPT,Daily,Automation,111,Low,Lack of Training
+FinLabs,EdTech,125,Bard,Monthly,Customer Support,119,Low,Data Privacy
+SmartLabs,Manufacturing,310,"ChatGPT, Bard",Daily,Content Creation,60,High,Integration Issues
+SmartPvt Ltd,Logistics,122,"Bard, Notion AI",Weekly,Data Analysis,44,High,Lack of Training
+MediCorp,Travel,413,"Notion AI, Google Duet",Daily,Coding Help,26,Low,Lack of Training
+EcoWorks,Finance,491,"GitHub Copilot, Google Duet, Bard",Monthly,Customer Support,52,High,Cost
+EduCorp,EdTech,279,"Notion AI, Bard",Monthly,Customer Support,6,Low,Integration Issues
+InfoSoft,Retail,415,"Notion AI, GitHub Copilot",Monthly,Automation,86,Low,Lack of Training
+CloudTech,Retail,38,"GitHub Copilot, ChatGPT, Google Duet",Daily,Content Creation,79,Low,Integration Issues
+CloudCorp,Healthcare,428,"GitHub Copilot, Notion AI",Daily,Customer Support,100,Low,Data Privacy
+TechSystems,EdTech,323,"Notion AI, Bard, Google Duet",Monthly,Content Creation,82,High,Integration Issues
+FinCorp,Manufacturing,386,ChatGPT,Monthly,Content Creation,21,Medium,None
+FinLabs,Finance,188,"Bard, GitHub Copilot, ChatGPT",Weekly,Customer Support,114,Low,None
+DataEnterprises,Retail,478,"GitHub Copilot, Google Duet",Weekly,Coding Help,59,High,Data Privacy
+DataCorp,Manufacturing,412,ChatGPT,Daily,Customer Support,95,Low,Cost
+MediSystems,Manufacturing,239,ChatGPT,Daily,Data Analysis,54,High,Data Privacy
+FinWorks,Logistics,37,"Google Duet, Notion AI, ChatGPT",Daily,Data Analysis,99,Low,Cost
+FinTech,Manufacturing,312,"Bard, ChatGPT, Google Duet",Weekly,Data Analysis,26,Low,Lack of Training
+InfoTech,Retail,111,"Bard, ChatGPT, Google Duet",Daily,Data Analysis,86,Medium,Cost
+MediAnalytics,Retail,91,Google Duet,Daily,Content Creation,62,High,Cost
+SmartAnalytics,Retail,300,"Bard, Google Duet, GitHub Copilot",Weekly,Data Analysis,67,Medium,Data Privacy
+DataPvt Ltd,EdTech,281,"Notion AI, Bard, ChatGPT",Monthly,Automation,48,High,Lack of Training
+DataAnalytics,Healthcare,84,Bard,Daily,Content Creation,119,Medium,Integration Issues
+EduAnalytics,Retail,185,"Google Duet, Notion AI, Bard",Daily,Data Analysis,107,High,None
+InfoSolutions,Manufacturing,52,"ChatGPT, Bard",Weekly,Customer Support,15,Medium,None
+SmartAnalytics,Travel,219,"GitHub Copilot, Bard",Weekly,Coding Help,9,Low,Integration Issues
+SmartAnalytics,Travel,226,Bard,Monthly,Automation,-6,High,Lack of Training
