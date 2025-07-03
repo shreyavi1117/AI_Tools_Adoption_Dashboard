@@ -8,7 +8,7 @@ An interactive data analytics dashboard built using Streamlit to explore how Sma
 ## 🚀 Live Demo
 
 👉 [Click here to view the dashboard](https://your-streamlit-cloud-link)  
-_(Replace this with your actual Streamlit app link)_
+
 
 ---
 
