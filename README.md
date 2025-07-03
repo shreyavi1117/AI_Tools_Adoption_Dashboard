@@ -7,7 +7,7 @@ An interactive data analytics dashboard built using Streamlit to explore how Sma
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the dashboard](https://your-streamlit-cloud-link)  
+👉 [Click here to view the dashboard]((https://shreyavi1117-ai-tools-adoption-dashboard.streamlit.app/))  
 
 
 ---
