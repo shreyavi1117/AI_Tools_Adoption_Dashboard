@@ -1,87 +1,61 @@
 # AI_Tools_Adoption_Dashboard
-# 📊 AI Tools Adoption in Indian SMBs - Dashboard
+# 📊 AI Tools Adoption in Indian SMBs - Streamlit Dashboard
 
-An interactive data analytics dashboard built using Streamlit to explore how Small and Medium Businesses (SMBs) in India are adopting AI tools post-ChatGPT. This project highlights trends in adoption levels, ROI, sector-wise distribution, and common challenges faced.
+This Streamlit dashboard visualizes insights from a survey-based dataset on how Small and Medium Businesses (SMBs) in India are adopting Artificial Intelligence tools. It covers sector-wise adoption, ROI analysis, challenges faced, and the most used AI tools.
 
----
-
-## 🚀 Live Demo
-
-👉 [Click here to view the dashboard](([https://shreyavi1117-ai-tools-adoption-dashboard.streamlit.app/](https://5wyj5kjvs3ymjgqzc9app5i.streamlit.app/)))  
-
+👉 [Click here to view the live dashboard](https://5wyj5kjvs3ymjgqzc9app5i.streamlit.app/)
 
 ---
 
-## 📁 Dataset
+## 📁 Dataset Used
 
-- Title: AI Tools Adoption by Indian SMBs (Post-ChatGPT Era)
-- Format: CSV
-- Source: Hypothetical survey-based data (manually curated for learning purpose)
-- Key Features:
-  - Sector
-  - AI Adoption Level
-  - ROI (%)
-  - AI Tools Used
-  - Challenges Faced
-
----
-
-## 📌 Features
-
-- ✅ Dataset preview (interactive table)
-- 📊 Sector-wise business distribution
-- 📈 ROI analysis based on adoption level
-- 📌 Most commonly used AI tools
-- ⚠️ Top challenges faced by Indian SMBs
-- 🌈 Clean and responsive layout using Streamlit
+- Name: AI_Tools_Adoption_SMBs_India_Updated.csv  
+- Size: ~X KB *(replace with exact size if needed)*  
+- Source: Manually compiled or survey-based data  
+- Columns:
+  - Sector – Business sector (e.g., Retail, Manufacturing)
+  - Adoption_Level – Low/Medium/High
+  - ROI_Percentage – Return on investment
+  - AI_Tools_Used – Tools like ChatGPT, Midjourney, etc.
+  - Challenges – Implementation barriers
 
 ---
 
-## 🧰 Tech Stack
+## 📊 Dashboard Features
 
-| Tool | Purpose |
-|------|---------|
-| Python | Programming |
-| Pandas | Data handling |
-| Matplotlib & Seaborn | Data visualization |
-| Streamlit | Web app/dashboard |
-| Git & GitHub | Version control & deployment |
+- ✅ Sector-wise Distribution (Bar Chart)  
+- ✅ ROI vs AI Adoption Level (Boxplot using Seaborn)  
+- ✅ Top AI Tools Used (Bar Chart)  
+- ✅ Common Challenges Faced (Bar Chart)  
+- ✅ Data Preview Table
 
 ---
 
-## 📷 Screenshots
+## 🚀 Tech Stack
 
-### 1. Dataset Preview  
-![Dataset](screenshots/dataset.png)
-
-### 2. Sector-wise Distribution  
-![Sectors](screenshots/sector_distribution.png)
-
-### 3. ROI vs Adoption Level  
-![ROI](screenshots/roi_vs_adoption.png)
-
-_(Add your screenshots in a screenshots/ folder in your repo and update the paths above)_
+- Frontend: Streamlit
+- Data Handling: Pandas
+- Visualization: Matplotlib, Seaborn
+- Deployment: Streamlit Cloud  
+- Version Control: GitHub
 
 ---
 
-## 🔮 Future Improvements
+## 🧠 Purpose
 
-- Add filtering by region or sector
-- Deploy with Streamlit login/authentication
-- Add NLP-based insights from open-ended feedback
-- Integration with Google Sheets or Firebase for real-time updates
-
----
-
-## 👩‍💻 Author
-
-Shreya Vishwakarma  
-🎓 MCA | Aspiring Data Analyst | Ex-Paytm | Deloitte Virtual Intern  
-📧 [shreyavishwakarma690@gmail.com](mailto:shreyavishwakarma690@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/shreyavi1117) | [GitHub](https://github.com/shreyavi1117)
+- Understand how AI tools are impacting Indian SMBs  
+- Identify patterns, ROI trends, and barriers to adoption  
+- Showcase data analytics skills for portfolio and interviews
 
 ---
 
-## 📌 License
+## 📌 How to Run Locally
 
-This project is open-source and free to use under the [MIT License](LICENSE).
+`bash
+git clone https://github.com/shreyavi1117/AI_Tools_Adoption_Dashboard.git
+cd AI_Tools_Adoption_Dashboard
+pip install -r requirements.txt
+streamlit run app.py
+
+
+
